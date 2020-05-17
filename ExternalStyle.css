@@ -1,0 +1,68 @@
+/*外部样式表*/
+*{margin: 0;
+padding: 0;}
+body{
+    padding-top:44px;
+    background: rgb(244,244,246);
+    padding-bottom: 60px;
+    }
+header{
+    background: rgb(40,133,202);
+    color: white;
+    text-align: center;
+    line-height: 44px;
+    font-size: 18px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+}
+.DS_second_section img{
+    width: 100%;
+    margin-bottom: -4px;
+}
+.DS_2 img{
+     width: 100%;
+     margin-bottom: -4px;
+ }
+.DS_3 img{
+      width: 100%;
+      margin-bottom: -4px;
+  }
+.DS_4 img{
+       width: 100%;
+       margin-bottom: -4px;
+   }
+.DS_5 img{
+        width: 100%;
+        margin-bottom: -4px;
+    }
+footer{
+    display: table;
+    width: 100%;
+    background: black;
+    height: 60px;
+    font-size: 10px;
+    left: 0;
+    bottom: 0;
+    width:100%;
+    position: fixed;
+}
+footer a{
+    display: table-cell;
+    width: 20%;
+    text-align: center;
+    vertical-align: middle;
+}
+footer a span{
+    display:block;
+color: white;}
+
+footer a img
+{
+    width: 18px;
+}
+a{
+    text-decoration: none;
+}
